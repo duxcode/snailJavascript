@@ -1,0 +1,22 @@
+{
+  "name": "snailJavascript",
+  "homepage": "https://github.com/duxcode/snailJavascript",
+  "authors": [
+    "Fernando Portilla <fernandoportilla1@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#^1.6.0",
+    "bootstrap": "^3.3.7",
+    "underscore": "^1.8.3"
+  }
+}
